@@ -9,7 +9,7 @@
 - Commerce.js
 - Stripe
 
- ## <a href="https://e-store-mz7.vercel.app/">Demo</a>
+ ## <a href="https://e-store-dev.vercel.app">Demo</a>
  
  ![Screenshot - 4_19_2023 , 12_59_20 AM](https://user-images.githubusercontent.com/104537380/232923130-b79e0ab0-59e1-4008-8d35-33d70eb62354.png)
 
